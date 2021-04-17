@@ -1,1 +1,1 @@
-# dev-inc.
+# dev-inc
